@@ -1,5 +1,6 @@
 # Terraform code
 # Define the provider
+# Important these AWS access key and secret keys are changed Due to AWS privacy policy
 provider "aws" {
   access_key = "AKIAURGPCGPZZ4ARP44C"
   secret_key = "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"
